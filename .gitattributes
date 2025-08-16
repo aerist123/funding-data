@@ -1,0 +1,2 @@
+*.csv text eol=lf
+public/data/*.csv text eol=lf
